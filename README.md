@@ -4,4 +4,4 @@
 
 | Released Vulnerabilities  | Coming Soon |
 |---------------------------|-------------|
-|<img src="" style="content:url(dirtycow.png);min-width:200px;">|<img src="" style="filter:blur(20px);content:url(b71625.png);max-width:200px;">|
+|<img src="" style="content:url(dirtycow.png?);min-width:200px;max-width:200px;">|<img src="" style="filter:blur(20px);content:url(b71625.png?);min-width:200px;max-width:200px;">|
