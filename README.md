@@ -5,4 +5,4 @@
 | Released Vulnerabilities  |
 |---------------------------|
 |[<img src="" style="content:url(dirtycow.png?);min-width:200px;max-width:200px;">](https://dirtycow.ninja)|
-|<img src="" style="content:url(b71625.png?);min-width:200px;max-width:200px;">|
+|[<img src="" style="content:url(b71625.png?);min-width:200px;max-width:200px;">](https://holeybeep.ninja)|
