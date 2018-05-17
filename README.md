@@ -4,6 +4,6 @@
 
 | Released Vulnerabilities  |
 |---------------------------|
-|[<img src="" style="content:url(dynoroot.png?);min-width:200px;max-width:200px;">](https://dynoroot.ninja)|
-|[<img src="" style="content:url(b71625.png?);min-width:200px;max-width:200px;">](https://holeybeep.ninja)|
-|[<img src="" style="content:url(dirtycow.png?);min-width:200px;max-width:200px;">](https://dirtycow.ninja)|
+|[<img src="dynoroot.png" width="200px" height="200px">](https://dynoroot.ninja)|
+|[<img src="b71625.png" width="200px" height="200px">](https://holeybeep.ninja)|
+|[<img src="dirtycow.png" width="200px" height="200px">](https://dirtycow.ninja)|
